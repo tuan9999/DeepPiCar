@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>104.jpg</filename>
+	<path>/Users/tuanperera/Documents/machine_learning_stuff/garbage_detector/raccoon_dataset/images/104.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>264</width>
+		<height>191</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>66</xmin>
+			<ymin>30</ymin>
+			<xmax>105</xmax>
+			<ymax>157</ymax>
+		</bndbox>
+	</object>
+</annotation>
