@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cardboard</folder>
+	<filename>cardboard211.jpg</filename>
+	<path>/Users/tuanperera/Downloads/81794_189983_bundle_archive/Garbage classification/Garbage classification/cardboard/cardboard211.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cardboard</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>6</xmin>
+			<ymin>50</ymin>
+			<xmax>487</xmax>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+</annotation>
