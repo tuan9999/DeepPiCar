@@ -1,0 +1,26 @@
+<annotation>
+	<folder>trash</folder>
+	<filename>trash50.jpg</filename>
+	<path>/Users/flintlouis/Documents/Code/autonomous-robot/Garbage-classification/trash/trash50.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>trash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>176</xmin>
+			<ymin>127</ymin>
+			<xmax>436</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+</annotation>
