@@ -1,0 +1,26 @@
+<annotation>
+	<folder>beers can grass - Google Search</folder>
+	<filename>can_53.jpg</filename>
+	<path>/home/d/codam/autonomous_robot/can/beers can grass - Google Search/images (11).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>194</width>
+		<height>259</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>50</xmin>
+			<ymin>35</ymin>
+			<xmax>149</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bottles</folder>
+	<filename>bottle_22.jpg</filename>
+	<path>/Users/flintlouis/Desktop/Renewed_dataset/bottles/bottle_21.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>131</xmin>
+			<ymin>4</ymin>
+			<xmax>447</xmax>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic</folder>
+	<filename>plastic_bottle_17.jpg</filename>
+	<path>/Users/tuanperera/Downloads/81794_189983_bundle_archive/Garbage classification/Garbage classification/plastic/plastic202.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>512</width>
+		<height>384</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>68</xmin>
+			<ymin>91</ymin>
+			<xmax>466</xmax>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

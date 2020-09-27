@@ -1,0 +1,26 @@
+<annotation>
+	<folder>cups</folder>
+	<filename>cup_223.jpg</filename>
+	<path>/Users/flintlouis/Documents/Code/Dataset/Renewed_dataset/harou_data/cups/cup_223.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>330</width>
+		<height>330</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>85</xmin>
+			<ymin>36</ymin>
+			<xmax>250</xmax>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+</annotation>

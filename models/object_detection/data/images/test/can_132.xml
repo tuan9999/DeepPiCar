@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>can_132.jpg</filename>
+  <path>images</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1300</width>
+    <height>956</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>can</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>682</xmin>
+      <ymin>216</ymin>
+      <xmax>1098</xmax>
+      <ymax>804</ymax>
+    </bndbox>
+  </object>
+</annotation>
