@@ -1,0 +1,26 @@
+<annotation>
+	<folder>plastic bottle on lawn - Google Search</folder>
+	<filename>plastic_bottle_66.jpg</filename>
+	<path>/Users/tuanperera/Downloads/plastic bottle on lawn - Google Search/images (98).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>250</width>
+		<height>202</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic_bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>56</ymin>
+			<xmax>219</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

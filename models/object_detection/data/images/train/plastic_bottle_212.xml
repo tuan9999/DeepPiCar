@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>plastic_bottle_212.jpg</filename>
+  <path>images</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>5120</width>
+    <height>3840</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>plastic_bottle</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>2512</xmin>
+      <ymin>856</ymin>
+      <xmax>3129</xmax>
+      <ymax>1653</ymax>
+    </bndbox>
+  </object>
+</annotation>

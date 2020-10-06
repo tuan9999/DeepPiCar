@@ -1,0 +1,26 @@
+<annotation>
+  <folder>images</folder>
+  <filename>cup_187.jpg</filename>
+  <path>images</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>5120</width>
+    <height>3840</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>cup</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>468</xmin>
+      <ymin>881</ymin>
+      <xmax>2593</xmax>
+      <ymax>2623</ymax>
+    </bndbox>
+  </object>
+</annotation>

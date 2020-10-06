@@ -1,0 +1,26 @@
+<annotation>
+	<folder>paper cup grass pollution - Google Search</folder>
+	<filename>cup_10.jpg</filename>
+	<path>/home/d/Downloads/paper cup grass pollution - Google Search/images (9).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>188</width>
+		<height>268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>19</xmin>
+			<ymin>63</ymin>
+			<xmax>117</xmax>
+			<ymax>148</ymax>
+		</bndbox>
+	</object>
+</annotation>
