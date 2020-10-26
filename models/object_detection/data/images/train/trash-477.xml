@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>korea-2458608_640_jpg.rf.a0288c18d077a5ffae1b4b82bb3d1cfe.jpg</filename>
+	<path>korea-2458608_640_jpg.rf.a0288c18d077a5ffae1b4b82bb3d1cfe.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>95</xmin>
+			<xmax>199</xmax>
+			<ymin>94</ymin>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+</annotation>

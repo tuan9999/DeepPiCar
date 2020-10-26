@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>towbar-657094_640_jpg.rf.27a446d3e715d0968534efd90fdaf080.jpg</filename>
+	<path>towbar-657094_640_jpg.rf.27a446d3e715d0968534efd90fdaf080.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>135</xmin>
+			<xmax>160</xmax>
+			<ymin>114</ymin>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+</annotation>

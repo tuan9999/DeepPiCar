@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>litter-5283310_640_jpg.rf.ef000d58b90732cfe7ed5ca9c26b8f2d.jpg</filename>
+	<path>litter-5283310_640_jpg.rf.ef000d58b90732cfe7ed5ca9c26b8f2d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>146</xmin>
+			<xmax>300</xmax>
+			<ymin>128</ymin>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+</annotation>

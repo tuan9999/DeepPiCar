@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Coke Can on Green Grass_jpg.rf.a9dc185bb822f7a8e14686b7bdc70253.jpg</filename>
+	<path>Coke Can on Green Grass_jpg.rf.a9dc185bb822f7a8e14686b7bdc70253.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>19</xmin>
+			<xmax>153</xmax>
+			<ymin>21</ymin>
+			<ymax>290</ymax>
+		</bndbox>
+	</object>
+</annotation>

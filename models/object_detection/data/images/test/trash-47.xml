@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>coca-cola-plastic-bottle-on-green-grass_jpg.rf.1ef5c3fae00bd9d7428ca4ec2e5edbc5.jpg</filename>
+	<path>coca-cola-plastic-bottle-on-green-grass_jpg.rf.1ef5c3fae00bd9d7428ca4ec2e5edbc5.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>97</xmin>
+			<xmax>227</xmax>
+			<ymin>44</ymin>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+</annotation>

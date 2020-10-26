@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>san-francisco-plastic-water-bottle-ban-2-600x480_jpg.rf.05a2097fe6fd572afbabdcaaa50edb77.jpg</filename>
+	<path>san-francisco-plastic-water-bottle-ban-2-600x480_jpg.rf.05a2097fe6fd572afbabdcaaa50edb77.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>54</xmin>
+			<xmax>264</xmax>
+			<ymin>45</ymin>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+</annotation>
