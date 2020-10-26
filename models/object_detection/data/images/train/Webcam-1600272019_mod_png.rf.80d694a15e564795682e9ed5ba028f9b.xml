@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Webcam-1600272019_mod_png.rf.80d694a15e564795682e9ed5ba028f9b.jpg</filename>
+	<path>Webcam-1600272019_mod_png.rf.80d694a15e564795682e9ed5ba028f9b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>128</xmin>
+			<xmax>184</xmax>
+			<ymin>2</ymin>
+			<ymax>184</ymax>
+		</bndbox>
+	</object>
+</annotation>
