@@ -1,9 +1,9 @@
 <annotation>
-	<folder></folder>
+	<folder>test</folder>
 	<filename>milkshake-50739_640_jpg.rf.b61e6bd1d2e1161543ab51e79af648c0.jpg</filename>
-	<path>milkshake-50739_640_jpg.rf.b61e6bd1d2e1161543ab51e79af648c0.jpg</path>
+	<path>/home/harou24/Downloads/test/milkshake-50739_640_jpg.rf.b61e6bd1d2e1161543ab51e79af648c0.jpg</path>
 	<source>
-		<database>roboflow.ai</database>
+		<database>Unknown</database>
 	</source>
 	<size>
 		<width>300</width>
@@ -16,12 +16,11 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
-			<xmin>87</xmin>
-			<xmax>223</xmax>
-			<ymin>116</ymin>
-			<ymax>252</ymax>
+			<xmin>81</xmin>
+			<ymin>109</ymin>
+			<xmax>224</xmax>
+			<ymax>256</ymax>
 		</bndbox>
 	</object>
 </annotation>

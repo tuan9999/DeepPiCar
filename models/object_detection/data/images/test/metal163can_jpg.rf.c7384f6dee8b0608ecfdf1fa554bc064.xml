@@ -1,7 +1,7 @@
 <annotation>
 	<folder>test</folder>
-	<filename>metal282can_jpg.rf.024b341d582f13a961878c4d3c73dbef.jpg</filename>
-	<path>/home/harou24/Downloads/test/metal282can_jpg.rf.024b341d582f13a961878c4d3c73dbef.jpg</path>
+	<filename>metal163can_jpg.rf.c7384f6dee8b0608ecfdf1fa554bc064.jpg</filename>
+	<path>/home/harou24/Downloads/test/metal163can_jpg.rf.c7384f6dee8b0608ecfdf1fa554bc064.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>Can</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>47</xmin>
-			<ymin>27</ymin>
-			<xmax>299</xmax>
-			<ymax>300</ymax>
+			<xmin>28</xmin>
+			<ymin>4</ymin>
+			<xmax>257</xmax>
+			<ymax>231</ymax>
 		</bndbox>
 	</object>
 </annotation>
