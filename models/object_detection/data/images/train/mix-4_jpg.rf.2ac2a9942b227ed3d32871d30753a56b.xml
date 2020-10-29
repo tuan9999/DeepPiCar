@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>113</xmin>
-			<xmax>150</xmax>
 			<ymin>31</ymin>
+			<xmax>150</xmax>
 			<ymax>93</ymax>
 		</bndbox>
 	</object>
@@ -30,8 +30,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>55</xmin>
-			<xmax>113</xmax>
 			<ymin>65</ymin>
+			<xmax>113</xmax>
 			<ymax>129</ymax>
 		</bndbox>
 	</object>
@@ -42,8 +42,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>180</xmin>
-			<xmax>224</xmax>
 			<ymin>186</ymin>
+			<xmax>224</xmax>
 			<ymax>259</ymax>
 		</bndbox>
 	</object>
@@ -54,8 +54,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>66</xmin>
-			<xmax>100</xmax>
 			<ymin>191</ymin>
+			<xmax>100</xmax>
 			<ymax>243</ymax>
 		</bndbox>
 	</object>
@@ -66,8 +66,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>184</xmin>
-			<xmax>215</xmax>
 			<ymin>91</ymin>
+			<xmax>215</xmax>
 			<ymax>138</ymax>
 		</bndbox>
 	</object>
@@ -78,8 +78,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>57</xmin>
-			<xmax>114</xmax>
 			<ymin>116</ymin>
+			<xmax>114</xmax>
 			<ymax>183</ymax>
 		</bndbox>
 	</object>
@@ -90,8 +90,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>108</xmin>
-			<xmax>147</xmax>
 			<ymin>132</ymin>
+			<xmax>147</xmax>
 			<ymax>216</ymax>
 		</bndbox>
 	</object>
@@ -102,8 +102,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>142</xmin>
-			<xmax>203</xmax>
 			<ymin>143</ymin>
+			<xmax>203</xmax>
 			<ymax>234</ymax>
 		</bndbox>
 	</object>
@@ -114,8 +114,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>121</xmin>
-			<xmax>179</xmax>
 			<ymin>69</ymin>
+			<xmax>179</xmax>
 			<ymax>137</ymax>
 		</bndbox>
 	</object>
@@ -126,8 +126,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>201</xmin>
-			<xmax>233</xmax>
 			<ymin>125</ymin>
+			<xmax>233</xmax>
 			<ymax>167</ymax>
 		</bndbox>
 	</object>
@@ -138,8 +138,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>224</xmin>
-			<xmax>266</xmax>
 			<ymin>142</ymin>
+			<xmax>266</xmax>
 			<ymax>237</ymax>
 		</bndbox>
 	</object>

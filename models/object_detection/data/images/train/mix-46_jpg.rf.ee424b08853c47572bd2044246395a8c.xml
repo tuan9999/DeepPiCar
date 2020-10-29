@@ -18,8 +18,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>68</xmin>
-			<xmax>106</xmax>
 			<ymin>22</ymin>
+			<xmax>106</xmax>
 			<ymax>168</ymax>
 		</bndbox>
 	</object>
@@ -30,8 +30,8 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>150</xmin>
-			<xmax>180</xmax>
 			<ymin>115</ymin>
+			<xmax>180</xmax>
 			<ymax>170</ymax>
 		</bndbox>
 	</object>
