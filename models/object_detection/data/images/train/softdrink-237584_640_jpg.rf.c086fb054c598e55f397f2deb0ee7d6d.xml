@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>softdrink-237584_640_jpg.rf.c086fb054c598e55f397f2deb0ee7d6d.jpg</filename>
+	<path>softdrink-237584_640_jpg.rf.c086fb054c598e55f397f2deb0ee7d6d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>57</xmin>
+			<xmax>258</xmax>
+			<ymin>25</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+</annotation>

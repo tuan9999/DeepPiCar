@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>coffee-880566_640_jpg.rf.8341a45c926dc9e6c9ef72a20bc4a562.jpg</filename>
+	<path>coffee-880566_640_jpg.rf.8341a45c926dc9e6c9ef72a20bc4a562.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<xmax>220</xmax>
+			<ymin>42</ymin>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+</annotation>

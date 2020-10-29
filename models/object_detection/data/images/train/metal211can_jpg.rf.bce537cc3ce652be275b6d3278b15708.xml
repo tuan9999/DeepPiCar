@@ -1,9 +1,9 @@
 <annotation>
-	<folder>test</folder>
+	<folder></folder>
 	<filename>metal211can_jpg.rf.bce537cc3ce652be275b6d3278b15708.jpg</filename>
-	<path>/home/harou24/Downloads/test/metal211can_jpg.rf.bce537cc3ce652be275b6d3278b15708.jpg</path>
+	<path>metal211can_jpg.rf.bce537cc3ce652be275b6d3278b15708.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>300</width>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>102</xmin>
-			<ymin>54</ymin>
-			<xmax>207</xmax>
-			<ymax>222</ymax>
+			<xmin>106</xmin>
+			<xmax>200</xmax>
+			<ymin>59</ymin>
+			<ymax>212</ymax>
 		</bndbox>
 	</object>
 </annotation>

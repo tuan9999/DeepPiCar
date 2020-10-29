@@ -1,9 +1,9 @@
 <annotation>
-	<folder>test</folder>
+	<folder></folder>
 	<filename>metal282can_jpg.rf.024b341d582f13a961878c4d3c73dbef.jpg</filename>
-	<path>/home/harou24/Downloads/test/metal282can_jpg.rf.024b341d582f13a961878c4d3c73dbef.jpg</path>
+	<path>metal282can_jpg.rf.024b341d582f13a961878c4d3c73dbef.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>300</width>
@@ -14,13 +14,13 @@
 	<object>
 		<name>Can</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>47</xmin>
-			<ymin>27</ymin>
-			<xmax>299</xmax>
-			<ymax>300</ymax>
+			<xmin>58</xmin>
+			<xmax>297</xmax>
+			<ymin>32</ymin>
+			<ymax>301</ymax>
 		</bndbox>
 	</object>
 </annotation>

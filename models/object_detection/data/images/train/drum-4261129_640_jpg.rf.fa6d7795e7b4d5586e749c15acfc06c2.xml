@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>drum-4261129_640_jpg.rf.fa6d7795e7b4d5586e749c15acfc06c2.jpg</filename>
+	<path>drum-4261129_640_jpg.rf.fa6d7795e7b4d5586e749c15acfc06c2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>113</xmin>
+			<xmax>189</xmax>
+			<ymin>22</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,9 +1,9 @@
 <annotation>
-	<folder>test</folder>
+	<folder></folder>
 	<filename>nature-4202718_640_jpg.rf.2b59acce06493ca5032885b7b6a27c4f.jpg</filename>
-	<path>/home/harou24/Downloads/test/nature-4202718_640_jpg.rf.2b59acce06493ca5032885b7b6a27c4f.jpg</path>
+	<path>nature-4202718_640_jpg.rf.2b59acce06493ca5032885b7b6a27c4f.jpg</path>
 	<source>
-		<database>Unknown</database>
+		<database>roboflow.ai</database>
 	</source>
 	<size>
 		<width>300</width>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>Plastic_bottle</name>
+		<name>Plastic-bottle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>94</xmin>
-			<ymin>105</ymin>
-			<xmax>162</xmax>
-			<ymax>165</ymax>
+			<xmax>163</xmax>
+			<ymin>106</ymin>
+			<ymax>164</ymax>
 		</bndbox>
 	</object>
 </annotation>
