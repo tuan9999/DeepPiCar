@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>cup-80_jpg.rf.7d136b3c682eafd525f03b5a04c3fa68.jpg</filename>
+	<path>cup-80_jpg.rf.7d136b3c682eafd525f03b5a04c3fa68.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>253</xmax>
+			<ymin>46</ymin>
+			<ymax>254</ymax>
+		</bndbox>
+	</object>
+</annotation>

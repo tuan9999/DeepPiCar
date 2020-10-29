@@ -1,0 +1,26 @@
+<annotation>
+	<folder></folder>
+	<filename>can-160_jpg.rf.a48dd709beaf2b7ae886a80f2c8a7743.jpg</filename>
+	<path>can-160_jpg.rf.a48dd709beaf2b7ae886a80f2c8a7743.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>101</xmin>
+			<xmax>146</xmax>
+			<ymin>131</ymin>
+			<ymax>149</ymax>
+		</bndbox>
+	</object>
+</annotation>
