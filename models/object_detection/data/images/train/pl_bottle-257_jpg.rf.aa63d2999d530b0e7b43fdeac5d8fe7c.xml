@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>26</xmin>
 			<ymin>2</ymin>
-			<xmax>257</xmax>
+			<xmin>26</xmin>
 			<ymax>107</ymax>
+			<xmax>257</xmax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>65</xmin>
 			<ymin>107</ymin>
-			<xmax>155</xmax>
+			<xmin>65</xmin>
 			<ymax>265</ymax>
+			<xmax>155</xmax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,22 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>245</xmin>
 			<ymin>12</ymin>
-			<xmax>301</xmax>
+			<xmin>245</xmin>
 			<ymax>142</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Plastic-bottle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>134</xmin>
-			<ymin>76</ymin>
 			<xmax>301</xmax>
-			<ymax>268</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +53,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
+			<ymin>76</ymin>
+			<xmin>134</xmin>
+			<ymax>268</ymax>
+			<xmax>301</xmax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
 			<ymin>87</ymin>
-			<xmax>99</xmax>
+			<xmin>1</xmin>
 			<ymax>259</ymax>
+			<xmax>99</xmax>
 		</bndbox>
 	</object>
 </annotation>
