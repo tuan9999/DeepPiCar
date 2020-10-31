@@ -11,16 +11,16 @@ for file in files_in_dir:
 		xmax = ""
 
 		for line in f:
+			if "<xmin>" in line:
 				xmin = line
 			elif "<ymin>" in line:
-			if "<xmin>" in line:
-				lst.append(line)
 				lst.append(xmin)
+				lst.append(line)
+			elif "<xmax>" in line:
 				xmax = line
 			elif "<ymax>" in line:
-			elif "<xmax>" in line:
-				lst.append(line)
 				lst.append(xmax)
+				lst.append(line)
 			else:
 				lst.append(line)
 

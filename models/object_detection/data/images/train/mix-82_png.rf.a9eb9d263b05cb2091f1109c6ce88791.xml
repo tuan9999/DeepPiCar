@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<ymin>62</ymin>
 			<xmin>97</xmin>
-			<ymax>157</ymax>
+			<ymin>62</ymin>
 			<xmax>137</xmax>
+			<ymax>157</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<ymin>35</ymin>
 			<xmin>214</xmin>
-			<ymax>150</ymax>
+			<ymin>35</ymin>
 			<xmax>263</xmax>
+			<ymax>150</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<ymin>85</ymin>
 			<xmin>268</xmin>
-			<ymax>116</ymax>
+			<ymin>85</ymin>
 			<xmax>283</xmax>
+			<ymax>116</ymax>
 		</bndbox>
 	</object>
 </annotation>

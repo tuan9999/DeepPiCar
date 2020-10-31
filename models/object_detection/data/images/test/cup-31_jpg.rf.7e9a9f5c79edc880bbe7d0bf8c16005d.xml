@@ -17,34 +17,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<ymin>98</ymin>
 			<xmin>5</xmin>
-			<ymax>201</ymax>
-			<xmax>97</xmax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<ymin>100</ymin>
-			<xmin>100</xmin>
-			<ymax>205</ymax>
-			<xmax>193</xmax>
-		</bndbox>
-	</object>
-	<object>
-		<name>Cup</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
 			<ymin>98</ymin>
-			<xmin>202</xmin>
+			<xmax>97</xmax>
 			<ymax>201</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>100</xmin>
+			<ymin>100</ymin>
+			<xmax>193</xmax>
+			<ymax>205</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>98</ymin>
 			<xmax>297</xmax>
+			<ymax>201</ymax>
 		</bndbox>
 	</object>
 </annotation>
