@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>plastic-cups-449695_640_jpg.rf.608ae06ce5da3ef9a3df40791467f6e2.jpg</filename>
+	<path>plastic-cups-449695_640_jpg.rf.608ae06ce5da3ef9a3df40791467f6e2.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>266</xmax>
+			<ymin>28</ymin>
+			<ymax>224</ymax>
+		</bndbox>
+	</object>
+</annotation>

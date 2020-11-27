@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>starbucks-5313533_640_jpg.rf.3676e10496ee013c70685f134647243f.jpg</filename>
+	<path>starbucks-5313533_640_jpg.rf.3676e10496ee013c70685f134647243f.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>165</xmin>
+			<xmax>229</xmax>
+			<ymin>92</ymin>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+</annotation>

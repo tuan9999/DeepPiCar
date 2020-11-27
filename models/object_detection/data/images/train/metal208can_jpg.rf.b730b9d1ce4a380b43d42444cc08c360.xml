@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>metal208can_jpg.rf.b730b9d1ce4a380b43d42444cc08c360.jpg</filename>
+	<path>metal208can_jpg.rf.b730b9d1ce4a380b43d42444cc08c360.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>85</xmin>
+			<xmax>219</xmax>
+			<ymin>106</ymin>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

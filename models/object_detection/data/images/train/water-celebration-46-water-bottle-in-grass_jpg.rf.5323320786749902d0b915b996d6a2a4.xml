@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>water-celebration-46-water-bottle-in-grass_jpg.rf.5323320786749902d0b915b996d6a2a4.jpg</filename>
+	<path>water-celebration-46-water-bottle-in-grass_jpg.rf.5323320786749902d0b915b996d6a2a4.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>88</xmin>
+			<xmax>208</xmax>
+			<ymin>134</ymin>
+			<ymax>167</ymax>
+		</bndbox>
+	</object>
+</annotation>

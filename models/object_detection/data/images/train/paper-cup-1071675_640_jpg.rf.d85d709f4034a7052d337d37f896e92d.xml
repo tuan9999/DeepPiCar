@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>paper-cup-1071675_640_jpg.rf.d85d709f4034a7052d337d37f896e92d.jpg</filename>
+	<path>paper-cup-1071675_640_jpg.rf.d85d709f4034a7052d337d37f896e92d.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>43</xmin>
+			<xmax>263</xmax>
+			<ymin>92</ymin>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+</annotation>

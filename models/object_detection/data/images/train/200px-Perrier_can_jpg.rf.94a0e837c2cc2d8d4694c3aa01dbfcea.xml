@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>200px-Perrier_can_jpg.rf.94a0e837c2cc2d8d4694c3aa01dbfcea.jpg</filename>
+	<path>200px-Perrier_can_jpg.rf.94a0e837c2cc2d8d4694c3aa01dbfcea.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>55</xmin>
+			<xmax>267</xmax>
+			<ymin>10</ymin>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

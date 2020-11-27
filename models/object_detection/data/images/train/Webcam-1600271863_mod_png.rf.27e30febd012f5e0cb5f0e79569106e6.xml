@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>Webcam-1600271863_mod_png.rf.27e30febd012f5e0cb5f0e79569106e6.jpg</filename>
+	<path>Webcam-1600271863_mod_png.rf.27e30febd012f5e0cb5f0e79569106e6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>210</xmin>
+			<xmax>278</xmax>
+			<ymin>13</ymin>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

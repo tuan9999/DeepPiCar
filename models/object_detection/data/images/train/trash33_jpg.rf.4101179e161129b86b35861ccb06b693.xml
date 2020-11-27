@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>trash33_jpg.rf.4101179e161129b86b35861ccb06b693.jpg</filename>
+	<path>trash33_jpg.rf.4101179e161129b86b35861ccb06b693.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>48</xmin>
+			<xmax>276</xmax>
+			<ymin>32</ymin>
+			<ymax>296</ymax>
+		</bndbox>
+	</object>
+</annotation>

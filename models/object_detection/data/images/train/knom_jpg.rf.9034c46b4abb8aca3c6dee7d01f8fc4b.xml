@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>knom_jpg.rf.9034c46b4abb8aca3c6dee7d01f8fc4b.jpg</filename>
+	<path>knom_jpg.rf.9034c46b4abb8aca3c6dee7d01f8fc4b.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>80</xmin>
+			<xmax>232</xmax>
+			<ymin>113</ymin>
+			<ymax>301</ymax>
+		</bndbox>
+	</object>
+</annotation>

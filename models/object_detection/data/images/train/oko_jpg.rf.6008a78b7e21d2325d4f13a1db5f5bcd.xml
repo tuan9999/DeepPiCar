@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>oko_jpg.rf.6008a78b7e21d2325d4f13a1db5f5bcd.jpg</filename>
+	<path>oko_jpg.rf.6008a78b7e21d2325d4f13a1db5f5bcd.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>27</xmin>
+			<xmax>270</xmax>
+			<ymin>240</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+</annotation>

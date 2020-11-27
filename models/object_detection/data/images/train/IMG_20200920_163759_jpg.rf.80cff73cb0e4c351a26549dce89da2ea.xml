@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>IMG_20200920_163759_jpg.rf.80cff73cb0e4c351a26549dce89da2ea.jpg</filename>
+	<path>IMG_20200920_163759_jpg.rf.80cff73cb0e4c351a26549dce89da2ea.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>89</xmin>
+			<xmax>191</xmax>
+			<ymin>106</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+</annotation>

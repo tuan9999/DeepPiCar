@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>crow-4339682_640_jpg.rf.abdb4ba9eacc0ce3eaa3389e54ba89c6.jpg</filename>
+	<path>crow-4339682_640_jpg.rf.abdb4ba9eacc0ce3eaa3389e54ba89c6.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Trash</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>41</xmin>
+			<xmax>147</xmax>
+			<ymin>78</ymin>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

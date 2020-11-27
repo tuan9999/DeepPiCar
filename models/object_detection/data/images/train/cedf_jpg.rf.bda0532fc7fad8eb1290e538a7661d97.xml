@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>cedf_jpg.rf.bda0532fc7fad8eb1290e538a7661d97.jpg</filename>
+	<path>cedf_jpg.rf.bda0532fc7fad8eb1290e538a7661d97.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>142</xmin>
+			<xmax>268</xmax>
+			<ymin>42</ymin>
+			<ymax>288</ymax>
+		</bndbox>
+	</object>
+</annotation>

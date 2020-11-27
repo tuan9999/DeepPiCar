@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>trash35_jpg.rf.ee96fafceaa402fe9f60c5319a06fd53.jpg</filename>
+	<path>trash35_jpg.rf.ee96fafceaa402fe9f60c5319a06fd53.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cup</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>80</xmin>
+			<xmax>274</xmax>
+			<ymin>94</ymin>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+</annotation>

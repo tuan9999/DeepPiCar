@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>dee3_jpg.rf.55f72d3816bf4065876752a23b8873cf.jpg</filename>
+	<path>dee3_jpg.rf.55f72d3816bf4065876752a23b8873cf.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Plastic-bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>190</xmax>
+			<ymin>2</ymin>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+</annotation>

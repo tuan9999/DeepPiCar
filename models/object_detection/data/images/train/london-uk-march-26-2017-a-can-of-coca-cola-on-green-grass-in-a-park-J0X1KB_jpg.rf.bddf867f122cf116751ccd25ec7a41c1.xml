@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>london-uk-march-26-2017-a-can-of-coca-cola-on-green-grass-in-a-park-J0X1KB_jpg.rf.bddf867f122cf116751ccd25ec7a41c1.jpg</filename>
+	<path>london-uk-march-26-2017-a-can-of-coca-cola-on-green-grass-in-a-park-J0X1KB_jpg.rf.bddf867f122cf116751ccd25ec7a41c1.jpg</path>
+	<source>
+		<database>roboflow.ai</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>70</xmin>
+			<xmax>256</xmax>
+			<ymin>50</ymin>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>
