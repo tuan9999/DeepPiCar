@@ -16,11 +16,10 @@
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
-		<occluded>0</occluded>
 		<bndbox>
 			<xmin>149</xmin>
-			<xmax>183</xmax>
 			<ymin>70</ymin>
+			<xmax>183</xmax>
 			<ymax>129</ymax>
 		</bndbox>
 	</object>
