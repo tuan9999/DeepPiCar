@@ -29,10 +29,12 @@ def xml_to_csv(path):
     classes_names = []
     xml_list = []
     for xml_file in glob.glob(path + "/*.xml"):
+        print(xml_file)
         tree = ET.parse(xml_file)
         root = tree.getroot()
         for member in root.findall("object"):
             classes_names.append(member[0].text)
+            print(member[4][0])
             value = (
                 root.find("filename").text,
                 int(root.find("size")[0].text),
